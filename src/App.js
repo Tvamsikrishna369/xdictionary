@@ -37,7 +37,7 @@ function App() {
         <button onClick={handleSearch}>Search</button>
       </div>
       <div>
-        <strong>Defination:</strong>
+        <strong>Definition:</strong>
         <p>{searchResult}</p>
       </div>
     </div>
